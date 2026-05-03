@@ -1,5 +1,5 @@
 version: STSv1
 mode: testing
-mx: fwd1.porkbun.com
-mx: fwd2.porkbun.com
+mx: mx.astermail.org
+mx: mx.aster.cx
 max_age: 86400
