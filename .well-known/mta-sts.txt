@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: mx.astermail.org
 mx: mx.aster.cx
 max_age: 86400
